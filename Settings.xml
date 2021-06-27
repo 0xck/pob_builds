@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PathOfBuilding>
+	<Mode mode="LIST">
+		<Arg boolean="false"/>
+		<Arg string="314/elem/"/>
+	</Mode>
+	<Accounts lastAccountName="0xck" lastRealm="PC">
+		<Account accountName="Whyme758"/>
+		<Account accountName="Kursed_one"/>
+		<Account accountName="0xck"/>
+	</Accounts>
+	<SharedItems>
+		<Item>
+			Rarity: UNIQUE
+Watcher&apos;s Eye
+Prismatic Jewel
+Item Level: 80
+Limited to: 1
+Implicits: 0
+6% increased maximum Energy Shield
+4% increased maximum Life
+5% increased maximum Mana
+100% increased Critical Strike Chance while affected by Wrath
+44% reduced Reflected Physical Damage taken while affected by Determination
+Note: ~b/o 40 chaos
+		</Item>
+		<Item>
+			Rarity: RARE
+Soul Eye
+Crimson Jewel
+Unique ID: 6ab771300aa61339e619a1336c6f661fa153d04851a05c1f6f491d0b6fb05047
+Item Level: 72
+LevelReq: 32
+Implicits: 2
+8% increased Global Critical Strike Chance
+You cannot be Maimed
+10% increased maximum Mana
+15% increased Mana Regeneration Rate
++13% to Cold Resistance
+16% increased Freeze Duration on Enemies
+3% chance to Freeze
+Corrupted
+		</Item>
+		<Item>
+			Rarity: RARE
+Pandemonium Bliss
+Cobalt Jewel
+Unique ID: 7c737d8833a5ccab1d309b9d7bd80d5b4854b1ae37e209785f8c7961f3c572de
+Item Level: 82
+Implicits: 1
+10% reduced Reflected Elemental Damage taken
+15% increased Critical Strike Chance with Fire Skills
++12% to Global Critical Strike Multiplier
++15% to Critical Strike Multiplier for Spells
++17% to Critical Strike Multiplier with Fire Skil
+		</Item>
+		<Item>
+			Rarity: UNIQUE
+Militant Faith
+Timeless Jewel
+Unique ID: 25c6e9000121117067ada8fac1ac48cc336bfabd8b2852b511d5e15d1c7534ae
+Item Level: 86
+Radius: Large
+Implicits: 0
+Carved to glorify 7615 new faithful converted by High Templar Dominus
+Passives in radius are Conquered by the Templars
+Channelling Skills deal 4% increased Damage per 10 Devotion
+4% increased Brand Damage per 10 Devotion
+Historic
+		</Item>
+		<Item>
+			Rarity: RARE
+Loath Sliver
+Medium Cluster Jewel
+Unique ID: 42f6e4d961ce5d123d2856afb8fcd4d4aff39a9423b6522f3390687fe7b57420
+Item Level: 64
+LevelReq: 40
+Implicits: 4
+{crafted}Adds 5 Passive Skills
+{crafted}1 Added Passive Skill is a Jewel Socket
+{crafted}Added Small Passive Skills grant: 12% increased Brand Damage
+Minions have 5% increased maximum Life
+Added Small Passive Skills also grant: +3 to Strength
+1 Added Passive Skill is Brand Loyalty
+1 Added Passive Skill is Holy Conquest
+		</Item>
+		<Item>
+			Rarity: RARE
+Entropy Hope
+Large Cluster Jewel
+Unique ID: 526f22ab8f89679dc8b597667c7571d4efa2f0e5a49a401d962eb48f26d4cb2d
+Item Level: 51
+LevelReq: 40
+Implicits: 3
+{crafted}Adds 8 Passive Skills
+{crafted}2 Added Passive Skills are Jewel Sockets
+{crafted}Added Small Passive Skills grant: 12% increased Lightning Damage
+Added Small Passive Skills also grant: +3 to Dexterity
+1 Added Passive Skill is Overshock
+1 Added Passive Skill is Scintillating Idea
+1 Added Passive Skill is Widespread Destruction
+		</Item>
+		<Item>
+			Rarity: UNIQUE
+Clear Mind
+Cobalt Jewel
+Unique ID: caf5f43c636351134c434151f70f912f61bccf65a5d37bc78ed24eab8ea97c58
+Item Level: 42
+Implicits: 1
+1% of Damage taken Recouped as Mana
+29% increased Mana Regeneration Rate
+54% increased Spell Damage while no Mana is Reserved
+		</Item>
+		<Item>
+			Rarity: RARE
+Whispering Oculus
+Hypnotic Eye Jewel
+Unique ID: df53bbc8dd8ffb0fc725032eb6c9235638d694b9ffe9fee841c6d007f1674e99
+Item Level: 83
+LevelReq: 66
+Implicits: 1
+20% increased Recovery per second from Life Leech
+Adds 19 to 26 Cold Damage to Spells
++37 to maximum Mana
+12 to 15 Added Spell Fire Damage while wielding a Two Handed Weapon
+6% chance to gain Phasing for 4 seconds on Kill
+		</Item>
+	</SharedItems>
+	<Misc thousandsSeparator="," showTitlebarName="true" nodePowerTheme="RED/BLUE" decimalSeparator="." showThousandsSeparators="true" buildSortMode="NAME"/>
+</PathOfBuilding>
